@@ -1,8 +1,5 @@
 ### Hi there, I'm Mauro 👋
 
-<!--
-**maurochiozzi/maurochiozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👨‍🎓 I'm Mechanical Engineer
 
 ### Connect with me
