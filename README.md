@@ -1,6 +1,6 @@
 ### Hi there, I'm Mauro 👋
 
-- 👨‍🎓 I'm Mechanical Engineer
+- 👨🏽‍🎓 I'm Mechanical Engineer
 
 ### Connect with me
 
