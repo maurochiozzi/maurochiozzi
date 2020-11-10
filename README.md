@@ -9,4 +9,4 @@
 
 
 [website]: https://maurochiozzi.github.io
-[linkedin]: https://linkedin.com/in/maurochiozzi
+[linkedin]: https://linkedin.com/in/mchiozzi
